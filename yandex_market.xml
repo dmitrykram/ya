@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2021-11-05 09:16">
+<shop>
+<name>Интернет-магазин пре</name>
+<company>КарСаМаН</company>
+<url>https://карсаман.рф/</url>
+<platform>Ecwid</platform>
+<version>2021-41417-gd74427bdcbc</version>
+<agency>Ecwid</agency>
+<email>info@ecwid.com</email>
+<currencies>
+  <currency id="RUB" />
+</currencies>
+<categories>
+  <category id="999999999999999999">Все товары</category>
+  <category id="122418991">Комбинезоны</category>
+  <category id="122419191">Бомберы, пиджаки, куртки</category>
+  <category id="122419433">Кофты, толстовки, худи, футболки</category>
+</categories>
+<offers>
+<offer id="413376464" available="true" group_id="413376464">
+  <url>https://карсаман.рф/#!/Красно-белый-утепленный-бомбер-с-капюшоном-от-КарСаМаН-на-молнии/p/413376464</url>
+  <price>8600.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701782375.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701776946.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701788582.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701777459.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701776964.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701788589.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701781378.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>00001</vendorCode>
+  <name>Красно-белый утепленный бомбер с капюшоном от КарСаМаН на молнии.</name>
+  <description>Красно-белый утепленный бомбер с капюшоном от КарСаМаН на молнии. Ткань - 
+экокожа со вставками из футера. Карманы. На манжетах вырез для пальца.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+</offer>
+<offer id="413376464C229995501" available="true" group_id="413376464">
+  <url>https://карсаман.рф/#!/Красно-белый-утепленный-бомбер-с-капюшоном-от-КарСаМаН-на-молнии/p/413376464</url>
+  <price>8600.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701777495.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>00001</vendorCode>
+  <name>Красно-белый утепленный бомбер с капюшоном от КарСаМаН на молнии. размер 52</name>
+  <description>Красно-белый утепленный бомбер с капюшоном от КарСаМаН на молнии. Ткань - 
+экокожа со вставками из футера. Карманы. На манжетах вырез для пальца.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">52</param>
+  <param name="Цвет">Красно-белый</param>
+</offer>
+<offer id="413376464C229995502" available="true" group_id="413376464">
+  <url>https://карсаман.рф/#!/Красно-белый-утепленный-бомбер-с-капюшоном-от-КарСаМаН-на-молнии/p/413376464</url>
+  <price>8600.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701782465.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>00001</vendorCode>
+  <name>Красно-белый утепленный бомбер с капюшоном от КарСаМаН на молнии. размер 50</name>
+  <description>Красно-белый утепленный бомбер с капюшоном от КарСаМаН на молнии. Ткань - 
+экокожа со вставками из футера. Карманы. На манжетах вырез для пальца.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">50</param>
+  <param name="Цвет">Красно-белый</param>
+</offer>
+<offer id="413376464C229995503" available="true" group_id="413376464">
+  <url>https://карсаман.рф/#!/Красно-белый-утепленный-бомбер-с-капюшоном-от-КарСаМаН-на-молнии/p/413376464</url>
+  <price>8600.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701782472.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>00001</vendorCode>
+  <name>Красно-белый утепленный бомбер с капюшоном от КарСаМаН на молнии. размер 48</name>
+  <description>Красно-белый утепленный бомбер с капюшоном от КарСаМаН на молнии. Ткань - 
+экокожа со вставками из футера. Карманы. На манжетах вырез для пальца.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">48</param>
+  <param name="Цвет">Красно-белый</param>
+</offer>
+<offer id="413376464C229995504" available="true" group_id="413376464">
+  <url>https://карсаман.рф/#!/Красно-белый-утепленный-бомбер-с-капюшоном-от-КарСаМаН-на-молнии/p/413376464</url>
+  <price>8600.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701795262.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>00001</vendorCode>
+  <name>Красно-белый утепленный бомбер с капюшоном от КарСаМаН на молнии. размер 46</name>
+  <description>Красно-белый утепленный бомбер с капюшоном от КарСаМаН на молнии. Ткань - 
+экокожа со вставками из футера. Карманы. На манжетах вырез для пальца.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">46</param>
+  <param name="Цвет">Красно-белый</param>
+</offer>
+<offer id="413376464C229995505" available="true" group_id="413376464">
+  <url>https://карсаман.рф/#!/Красно-белый-утепленный-бомбер-с-капюшоном-от-КарСаМаН-на-молнии/p/413376464</url>
+  <price>8600.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701795269.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>00001</vendorCode>
+  <name>Красно-белый утепленный бомбер с капюшоном от КарСаМаН на молнии. размер 44</name>
+  <description>Красно-белый утепленный бомбер с капюшоном от КарСаМаН на молнии. Ткань - 
+экокожа со вставками из футера. Карманы. На манжетах вырез для пальца.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">44</param>
+  <param name="Цвет">Красно-белый</param>
+</offer>
+<offer id="413376464C229995506" available="true" group_id="413376464">
+  <url>https://карсаман.рф/#!/Красно-белый-утепленный-бомбер-с-капюшоном-от-КарСаМаН-на-молнии/p/413376464</url>
+  <price>8600.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701782495.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>00001</vendorCode>
+  <name>Красно-белый утепленный бомбер с капюшоном от КарСаМаН на молнии. размер 42</name>
+  <description>Красно-белый утепленный бомбер с капюшоном от КарСаМаН на молнии. Ткань - 
+экокожа со вставками из футера. Карманы. На манжетах вырез для пальца.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">42</param>
+  <param name="Цвет">Красно-белый</param>
+</offer>
+<offer id="413397852" available="true" group_id="413397852">
+  <url>https://карсаман.рф/#!/Чёрно-белая-толстовка-с-капюшоном-от-КарСаМаН-на-молнии/p/413397852</url>
+  <price>6300.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701660438.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701657362.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701660418.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701660448.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар003</vendorCode>
+  <name>Чёрно-белая толстовка с капюшоном от КарСаМаН на молнии.</name>
+  <description>Чёрно-белая толстовка с капюшоном от КарСаМаН на молнии. Ткань - футер 
+трёхнитка. Качество - пенье. Яркий логотип от Карсаман. Капюшон. Стильный 
+карман.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+</offer>
+<offer id="413397852C229935133" available="true" group_id="413397852">
+  <url>https://карсаман.рф/#!/Чёрно-белая-толстовка-с-капюшоном-от-КарСаМаН-на-молнии/p/413397852</url>
+  <price>6300.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701672042.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар003</vendorCode>
+  <name>Чёрно-белая толстовка с капюшоном от КарСаМаН на молнии. размер 52</name>
+  <description>Чёрно-белая толстовка с капюшоном от КарСаМаН на молнии. Ткань - футер 
+трёхнитка. Качество - пенье. Яркий логотип от Карсаман. Капюшон. Стильный 
+карман.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">52</param>
+  <param name="Цвет">Чёрно-белый</param>
+</offer>
+<offer id="413397852C229935134" available="true" group_id="413397852">
+  <url>https://карсаман.рф/#!/Чёрно-белая-толстовка-с-капюшоном-от-КарСаМаН-на-молнии/p/413397852</url>
+  <price>6300.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701657446.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар003</vendorCode>
+  <name>Чёрно-белая толстовка с капюшоном от КарСаМаН на молнии. размер 50</name>
+  <description>Чёрно-белая толстовка с капюшоном от КарСаМаН на молнии. Ткань - футер 
+трёхнитка. Качество - пенье. Яркий логотип от Карсаман. Капюшон. Стильный 
+карман.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">50</param>
+  <param name="Цвет">Чёрно-белый</param>
+</offer>
+<offer id="413397852C229935135" available="true" group_id="413397852">
+  <url>https://карсаман.рф/#!/Чёрно-белая-толстовка-с-капюшоном-от-КарСаМаН-на-молнии/p/413397852</url>
+  <price>6300.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701657470.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар003</vendorCode>
+  <name>Чёрно-белая толстовка с капюшоном от КарСаМаН на молнии. размер 48</name>
+  <description>Чёрно-белая толстовка с капюшоном от КарСаМаН на молнии. Ткань - футер 
+трёхнитка. Качество - пенье. Яркий логотип от Карсаман. Капюшон. Стильный 
+карман.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">48</param>
+  <param name="Цвет">Чёрно-белый</param>
+</offer>
+<offer id="413397852C229935136" available="true" group_id="413397852">
+  <url>https://карсаман.рф/#!/Чёрно-белая-толстовка-с-капюшоном-от-КарСаМаН-на-молнии/p/413397852</url>
+  <price>6300.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701666416.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар003</vendorCode>
+  <name>Чёрно-белая толстовка с капюшоном от КарСаМаН на молнии. размер 46</name>
+  <description>Чёрно-белая толстовка с капюшоном от КарСаМаН на молнии. Ткань - футер 
+трёхнитка. Качество - пенье. Яркий логотип от Карсаман. Капюшон. Стильный 
+карман.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">46</param>
+  <param name="Цвет">Чёрно-белый</param>
+</offer>
+<offer id="413397852C229935137" available="true" group_id="413397852">
+  <url>https://карсаман.рф/#!/Чёрно-белая-толстовка-с-капюшоном-от-КарСаМаН-на-молнии/p/413397852</url>
+  <price>6300.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701665441.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар003</vendorCode>
+  <name>Чёрно-белая толстовка с капюшоном от КарСаМаН на молнии. размер 44</name>
+  <description>Чёрно-белая толстовка с капюшоном от КарСаМаН на молнии. Ткань - футер 
+трёхнитка. Качество - пенье. Яркий логотип от Карсаман. Капюшон. Стильный 
+карман.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">44</param>
+  <param name="Цвет">Чёрно-белый</param>
+</offer>
+<offer id="413397852C229935138" available="true" group_id="413397852">
+  <url>https://карсаман.рф/#!/Чёрно-белая-толстовка-с-капюшоном-от-КарСаМаН-на-молнии/p/413397852</url>
+  <price>6300.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701666431.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар003</vendorCode>
+  <name>Чёрно-белая толстовка с капюшоном от КарСаМаН на молнии. размер 42</name>
+  <description>Чёрно-белая толстовка с капюшоном от КарСаМаН на молнии. Ткань - футер 
+трёхнитка. Качество - пенье. Яркий логотип от Карсаман. Капюшон. Стильный 
+карман.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">42</param>
+  <param name="Цвет">Чёрно-белый</param>
+</offer>
+<offer id="413397858" available="true" group_id="413397858">
+  <url>https://карсаман.рф/#!/Чёрная-толстовка-без-капюшона-от-КарСаМаН/p/413397858</url>
+  <price>3700.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701672104.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701677022.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701673153.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар004</vendorCode>
+  <name>Чёрная толстовка без капюшона от КарСаМаН.</name>
+  <description>Чёрная толстовка без капюшона от КарСаМаН. Яркий логотип от Карсаман.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+</offer>
+<offer id="413397858C229935142" available="true" group_id="413397858">
+  <url>https://карсаман.рф/#!/Чёрная-толстовка-без-капюшона-от-КарСаМаН/p/413397858</url>
+  <price>3700.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701677163.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар004</vendorCode>
+  <name>Чёрная толстовка без капюшона от КарСаМаН. размер XXXL</name>
+  <description>Чёрная толстовка без капюшона от КарСаМаН. Яркий логотип от Карсаман.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">XXXL</param>
+  <param name="Цвет">Чёрный</param>
+</offer>
+<offer id="413397858C229935143" available="true" group_id="413397858">
+  <url>https://карсаман.рф/#!/Чёрная-толстовка-без-капюшона-от-КарСаМаН/p/413397858</url>
+  <price>3700.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701675944.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар004</vendorCode>
+  <name>Чёрная толстовка без капюшона от КарСаМаН. размер XXL</name>
+  <description>Чёрная толстовка без капюшона от КарСаМаН. Яркий логотип от Карсаман.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">XXL</param>
+  <param name="Цвет">Чёрный</param>
+</offer>
+<offer id="413397858C229935144" available="true" group_id="413397858">
+  <url>https://карсаман.рф/#!/Чёрная-толстовка-без-капюшона-от-КарСаМаН/p/413397858</url>
+  <price>3700.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701675925.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар004</vendorCode>
+  <name>Чёрная толстовка без капюшона от КарСаМаН. размер XL</name>
+  <description>Чёрная толстовка без капюшона от КарСаМаН. Яркий логотип от Карсаман.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">XL</param>
+  <param name="Цвет">Чёрный</param>
+</offer>
+<offer id="413397858C229935145" available="true" group_id="413397858">
+  <url>https://карсаман.рф/#!/Чёрная-толстовка-без-капюшона-от-КарСаМаН/p/413397858</url>
+  <price>3700.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701675916.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар004</vendorCode>
+  <name>Чёрная толстовка без капюшона от КарСаМаН. размер L</name>
+  <description>Чёрная толстовка без капюшона от КарСаМаН. Яркий логотип от Карсаман.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">L</param>
+  <param name="Цвет">Чёрный</param>
+</offer>
+<offer id="413397858C229935146" available="true" group_id="413397858">
+  <url>https://карсаман.рф/#!/Чёрная-толстовка-без-капюшона-от-КарСаМаН/p/413397858</url>
+  <price>3700.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701673245.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар004</vendorCode>
+  <name>Чёрная толстовка без капюшона от КарСаМаН. размер M</name>
+  <description>Чёрная толстовка без капюшона от КарСаМаН. Яркий логотип от Карсаман.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">M</param>
+  <param name="Цвет">Чёрный</param>
+</offer>
+<offer id="413397858C229935147" available="true" group_id="413397858">
+  <url>https://карсаман.рф/#!/Чёрная-толстовка-без-капюшона-от-КарСаМаН/p/413397858</url>
+  <price>3700.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701679309.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар004</vendorCode>
+  <name>Чёрная толстовка без капюшона от КарСаМаН. размер S</name>
+  <description>Чёрная толстовка без капюшона от КарСаМаН. Яркий логотип от Карсаман.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">S</param>
+  <param name="Цвет">Чёрный</param>
+</offer>
+<offer id="413397903" available="true" group_id="413397903">
+  <url>https://карсаман.рф/#!/Футболка-поло-от-КарСаМаН-с-ярким-принтом/p/413397903</url>
+  <price>2100.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>999999999999999999</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701728210.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701736028.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701736033.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>00000</vendorCode>
+  <name>Футболка поло от КарСаМаН с ярким принтом</name>
+  <description>Футболка поло от КарСаМаН с ярким принтом. Приятна к телу.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+</offer>
+<offer id="413397903C229935187" available="true" group_id="413397903">
+  <url>https://карсаман.рф/#!/Футболка-поло-от-КарСаМаН-с-ярким-принтом/p/413397903</url>
+  <price>2100.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>999999999999999999</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701731679.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>00000</vendorCode>
+  <name>Футболка поло от КарСаМаН с ярким принтом размер XXXL</name>
+  <description>Футболка поло от КарСаМаН с ярким принтом. Приятна к телу.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">XXXL</param>
+  <param name="Цвет">Черный</param>
+</offer>
+<offer id="413397903C229935188" available="true" group_id="413397903">
+  <url>https://карсаман.рф/#!/Футболка-поло-от-КарСаМаН-с-ярким-принтом/p/413397903</url>
+  <price>2100.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>999999999999999999</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701739751.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>00000</vendorCode>
+  <name>Футболка поло от КарСаМаН с ярким принтом размер XXL</name>
+  <description>Футболка поло от КарСаМаН с ярким принтом. Приятна к телу.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">XXL</param>
+  <param name="Цвет">Черный</param>
+</offer>
+<offer id="413397903C229935189" available="true" group_id="413397903">
+  <url>https://карсаман.рф/#!/Футболка-поло-от-КарСаМаН-с-ярким-принтом/p/413397903</url>
+  <price>2100.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>999999999999999999</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701731539.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>00000</vendorCode>
+  <name>Футболка поло от КарСаМаН с ярким принтом размер XL</name>
+  <description>Футболка поло от КарСаМаН с ярким принтом. Приятна к телу.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">XL</param>
+  <param name="Цвет">Черный</param>
+</offer>
+<offer id="413397903C229935190" available="true" group_id="413397903">
+  <url>https://карсаман.рф/#!/Футболка-поло-от-КарСаМаН-с-ярким-принтом/p/413397903</url>
+  <price>2100.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>999999999999999999</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701729936.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>00000</vendorCode>
+  <name>Футболка поло от КарСаМаН с ярким принтом размер L</name>
+  <description>Футболка поло от КарСаМаН с ярким принтом. Приятна к телу.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">L</param>
+  <param name="Цвет">Черный</param>
+</offer>
+<offer id="413397903C229935191" available="true" group_id="413397903">
+  <url>https://карсаман.рф/#!/Футболка-поло-от-КарСаМаН-с-ярким-принтом/p/413397903</url>
+  <price>2100.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>999999999999999999</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701731064.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>00000</vendorCode>
+  <name>Футболка поло от КарСаМаН с ярким принтом размер M</name>
+  <description>Футболка поло от КарСаМаН с ярким принтом. Приятна к телу.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">M</param>
+  <param name="Цвет">Черный</param>
+</offer>
+<offer id="413397903C229935192" available="true" group_id="413397903">
+  <url>https://карсаман.рф/#!/Футболка-поло-от-КарСаМаН-с-ярким-принтом/p/413397903</url>
+  <price>2100.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>999999999999999999</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701731586.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>00000</vendorCode>
+  <name>Футболка поло от КарСаМаН с ярким принтом размер S</name>
+  <description>Футболка поло от КарСаМаН с ярким принтом. Приятна к телу.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">S</param>
+  <param name="Цвет">Черный</param>
+</offer>
+<offer id="413397936" available="true" group_id="413397936">
+  <url>https://карсаман.рф/#!/Чёрно-белый-утепленный-бомбер-с-капюшоном-от-КарСаМаН-на-молнии/p/413397936</url>
+  <price>8600.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701769988.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701777308.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701765933.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701769993.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701765943.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701776810.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701777318.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701776822.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар006</vendorCode>
+  <name>Чёрно-белый утепленный бомбер с капюшоном от КарСаМаН на молнии.</name>
+  <description>Чёрно-белый утепленный бомбер с капюшоном от КарСаМаН на молнии. Ткань - 
+экокожа со вставками из футера. Карманы. На манжетах вырез для пальца.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+</offer>
+<offer id="413397936C229935219" available="true" group_id="413397936">
+  <url>https://карсаман.рф/#!/Чёрно-белый-утепленный-бомбер-с-капюшоном-от-КарСаМаН-на-молнии/p/413397936</url>
+  <price>8600.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701781310.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар006</vendorCode>
+  <name>Чёрно-белый утепленный бомбер с капюшоном от КарСаМаН на молнии. размер 52</name>
+  <description>Чёрно-белый утепленный бомбер с капюшоном от КарСаМаН на молнии. Ткань - 
+экокожа со вставками из футера. Карманы. На манжетах вырез для пальца.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">52</param>
+  <param name="Цвет">Чёрно-белый</param>
+</offer>
+<offer id="413397936C229935220" available="true" group_id="413397936">
+  <url>https://карсаман.рф/#!/Чёрно-белый-утепленный-бомбер-с-капюшоном-от-КарСаМаН-на-молнии/p/413397936</url>
+  <price>8600.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701776882.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар006</vendorCode>
+  <name>Чёрно-белый утепленный бомбер с капюшоном от КарСаМаН на молнии. размер 50</name>
+  <description>Чёрно-белый утепленный бомбер с капюшоном от КарСаМаН на молнии. Ткань - 
+экокожа со вставками из футера. Карманы. На манжетах вырез для пальца.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">50</param>
+  <param name="Цвет">Чёрно-белый</param>
+</offer>
+<offer id="413397936C229935221" available="true" group_id="413397936">
+  <url>https://карсаман.рф/#!/Чёрно-белый-утепленный-бомбер-с-капюшоном-от-КарСаМаН-на-молнии/p/413397936</url>
+  <price>8600.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701781317.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар006</vendorCode>
+  <name>Чёрно-белый утепленный бомбер с капюшоном от КарСаМаН на молнии. размер 48</name>
+  <description>Чёрно-белый утепленный бомбер с капюшоном от КарСаМаН на молнии. Ткань - 
+экокожа со вставками из футера. Карманы. На манжетах вырез для пальца.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">48</param>
+  <param name="Цвет">Чёрно-белый</param>
+</offer>
+<offer id="413397936C229935222" available="true" group_id="413397936">
+  <url>https://карсаман.рф/#!/Чёрно-белый-утепленный-бомбер-с-капюшоном-от-КарСаМаН-на-молнии/p/413397936</url>
+  <price>8600.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701777400.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар006</vendorCode>
+  <name>Чёрно-белый утепленный бомбер с капюшоном от КарСаМаН на молнии. размер 46</name>
+  <description>Чёрно-белый утепленный бомбер с капюшоном от КарСаМаН на молнии. Ткань - 
+экокожа со вставками из футера. Карманы. На манжетах вырез для пальца.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">46</param>
+  <param name="Цвет">Чёрно-белый</param>
+</offer>
+<offer id="413397936C229935223" available="true" group_id="413397936">
+  <url>https://карсаман.рф/#!/Чёрно-белый-утепленный-бомбер-с-капюшоном-от-КарСаМаН-на-молнии/p/413397936</url>
+  <price>8600.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701777412.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар006</vendorCode>
+  <name>Чёрно-белый утепленный бомбер с капюшоном от КарСаМаН на молнии. размер 44</name>
+  <description>Чёрно-белый утепленный бомбер с капюшоном от КарСаМаН на молнии. Ткань - 
+экокожа со вставками из футера. Карманы. На манжетах вырез для пальца.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">44</param>
+  <param name="Цвет">Чёрно-белый</param>
+</offer>
+<offer id="413397936C229935224" available="true" group_id="413397936">
+  <url>https://карсаман.рф/#!/Чёрно-белый-утепленный-бомбер-с-капюшоном-от-КарСаМаН-на-молнии/p/413397936</url>
+  <price>8600.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701781319.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар006</vendorCode>
+  <name>Чёрно-белый утепленный бомбер с капюшоном от КарСаМаН на молнии. размер 42</name>
+  <description>Чёрно-белый утепленный бомбер с капюшоном от КарСаМаН на молнии. Ткань - 
+экокожа со вставками из футера. Карманы. На манжетах вырез для пальца.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">42</param>
+  <param name="Цвет">Чёрно-белый</param>
+</offer>
+<offer id="413397942" available="true" group_id="413397942">
+  <url>https://карсаман.рф/#!/Бело-чёрный-утепленный-бомбер-с-капюшоном-от-КарСаМаН-на-молнии/p/413397942</url>
+  <price>8600.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701794125.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701788710.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701794137.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701798325.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701798330.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701794157.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701788725.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар008</vendorCode>
+  <name>Бело-чёрный утепленный бомбер с капюшоном от КарСаМаН на молнии.</name>
+  <description>Бело-чёрный утепленный бомбер с капюшоном от КарСаМаН на молнии. Ткань - 
+экокожа со вставками из футера. Карманы. На манжетах вырез для пальца.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+</offer>
+<offer id="413397942C229935239" available="true" group_id="413397942">
+  <url>https://карсаман.рф/#!/Бело-чёрный-утепленный-бомбер-с-капюшоном-от-КарСаМаН-на-молнии/p/413397942</url>
+  <price>8600.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701803253.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар008</vendorCode>
+  <name>Бело-чёрный утепленный бомбер с капюшоном от КарСаМаН на молнии. размер 52</name>
+  <description>Бело-чёрный утепленный бомбер с капюшоном от КарСаМаН на молнии. Ткань - 
+экокожа со вставками из футера. Карманы. На манжетах вырез для пальца.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">52</param>
+  <param name="Цвет">Бело-чёрный</param>
+</offer>
+<offer id="413397942C229935240" available="true" group_id="413397942">
+  <url>https://карсаман.рф/#!/Бело-чёрный-утепленный-бомбер-с-капюшоном-от-КарСаМаН-на-молнии/p/413397942</url>
+  <price>8600.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701794177.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар008</vendorCode>
+  <name>Бело-чёрный утепленный бомбер с капюшоном от КарСаМаН на молнии. размер 50</name>
+  <description>Бело-чёрный утепленный бомбер с капюшоном от КарСаМаН на молнии. Ткань - 
+экокожа со вставками из футера. Карманы. На манжетах вырез для пальца.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">50</param>
+  <param name="Цвет">Бело-чёрный</param>
+</offer>
+<offer id="413397942C229935241" available="true" group_id="413397942">
+  <url>https://карсаман.рф/#!/Бело-чёрный-утепленный-бомбер-с-капюшоном-от-КарСаМаН-на-молнии/p/413397942</url>
+  <price>8600.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701803262.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар008</vendorCode>
+  <name>Бело-чёрный утепленный бомбер с капюшоном от КарСаМаН на молнии. размер 48</name>
+  <description>Бело-чёрный утепленный бомбер с капюшоном от КарСаМаН на молнии. Ткань - 
+экокожа со вставками из футера. Карманы. На манжетах вырез для пальца.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">48</param>
+  <param name="Цвет">Бело-чёрный</param>
+</offer>
+<offer id="413397942C229935242" available="true" group_id="413397942">
+  <url>https://карсаман.рф/#!/Бело-чёрный-утепленный-бомбер-с-капюшоном-от-КарСаМаН-на-молнии/p/413397942</url>
+  <price>8600.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701795356.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар008</vendorCode>
+  <name>Бело-чёрный утепленный бомбер с капюшоном от КарСаМаН на молнии. размер 46</name>
+  <description>Бело-чёрный утепленный бомбер с капюшоном от КарСаМаН на молнии. Ткань - 
+экокожа со вставками из футера. Карманы. На манжетах вырез для пальца.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">46</param>
+  <param name="Цвет">Бело-чёрный</param>
+</offer>
+<offer id="413397942C229935243" available="true" group_id="413397942">
+  <url>https://карсаман.рф/#!/Бело-чёрный-утепленный-бомбер-с-капюшоном-от-КарСаМаН-на-молнии/p/413397942</url>
+  <price>8600.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701803269.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар008</vendorCode>
+  <name>Бело-чёрный утепленный бомбер с капюшоном от КарСаМаН на молнии. размер 44</name>
+  <description>Бело-чёрный утепленный бомбер с капюшоном от КарСаМаН на молнии. Ткань - 
+экокожа со вставками из футера. Карманы. На манжетах вырез для пальца.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">44</param>
+  <param name="Цвет">Бело-чёрный</param>
+</offer>
+<offer id="413397942C229935244" available="true" group_id="413397942">
+  <url>https://карсаман.рф/#!/Бело-чёрный-утепленный-бомбер-с-капюшоном-от-КарСаМаН-на-молнии/p/413397942</url>
+  <price>8600.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701794244.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар008</vendorCode>
+  <name>Бело-чёрный утепленный бомбер с капюшоном от КарСаМаН на молнии. размер 42</name>
+  <description>Бело-чёрный утепленный бомбер с капюшоном от КарСаМаН на молнии. Ткань - 
+экокожа со вставками из футера. Карманы. На манжетах вырез для пальца.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">42</param>
+  <param name="Цвет">Бело-чёрный</param>
+</offer>
+<offer id="413400555" available="true" group_id="413400555">
+  <url>https://карсаман.рф/#!/Худи-с-капюшоном-от-КарСаМаН/p/413400555</url>
+  <price>3800.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701610163.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701625039.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701616223.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701616233.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701625557.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар01</vendorCode>
+  <name>Худи с капюшоном от КарСаМаН</name>
+  <description>Худи с капюшоном яркий принт от КарСаМаН. Ткань - футер. Спереди имеются 
+карманы.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+</offer>
+<offer id="413400555C229935106" available="true" group_id="413400555">
+  <url>https://карсаман.рф/#!/Худи-с-капюшоном-от-КарСаМаН/p/413400555</url>
+  <price>3800.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701610163.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар01</vendorCode>
+  <name>Худи с капюшоном от КарСаМаН размер XXXL</name>
+  <description>Худи с капюшоном яркий принт от КарСаМаН. Ткань - футер. Спереди имеются 
+карманы.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">XXXL</param>
+  <param name="Цвет">Черный</param>
+</offer>
+<offer id="413400555C229935107" available="true" group_id="413400555">
+  <url>https://карсаман.рф/#!/Худи-с-капюшоном-от-КарСаМаН/p/413400555</url>
+  <price>3800.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701610163.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар01</vendorCode>
+  <name>Худи с капюшоном от КарСаМаН размер XXL</name>
+  <description>Худи с капюшоном яркий принт от КарСаМаН. Ткань - футер. Спереди имеются 
+карманы.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">XXL</param>
+  <param name="Цвет">Черный</param>
+</offer>
+<offer id="413400555C229935108" available="true" group_id="413400555">
+  <url>https://карсаман.рф/#!/Худи-с-капюшоном-от-КарСаМаН/p/413400555</url>
+  <price>3800.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701610163.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар01</vendorCode>
+  <name>Худи с капюшоном от КарСаМаН размер XL</name>
+  <description>Худи с капюшоном яркий принт от КарСаМаН. Ткань - футер. Спереди имеются 
+карманы.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">XL</param>
+  <param name="Цвет">Черный</param>
+</offer>
+<offer id="413400555C229935109" available="true" group_id="413400555">
+  <url>https://карсаман.рф/#!/Худи-с-капюшоном-от-КарСаМаН/p/413400555</url>
+  <price>3800.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701610163.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар01</vendorCode>
+  <name>Худи с капюшоном от КарСаМаН размер L</name>
+  <description>Худи с капюшоном яркий принт от КарСаМаН. Ткань - футер. Спереди имеются 
+карманы.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">L</param>
+  <param name="Цвет">Черный</param>
+</offer>
+<offer id="413400555C229935110" available="true" group_id="413400555">
+  <url>https://карсаман.рф/#!/Худи-с-капюшоном-от-КарСаМаН/p/413400555</url>
+  <price>3800.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701610163.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар01</vendorCode>
+  <name>Худи с капюшоном от КарСаМаН размер M</name>
+  <description>Худи с капюшоном яркий принт от КарСаМаН. Ткань - футер. Спереди имеются 
+карманы.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">M</param>
+  <param name="Цвет">Черный</param>
+</offer>
+<offer id="413400555C229935111" available="true" group_id="413400555">
+  <url>https://карсаман.рф/#!/Худи-с-капюшоном-от-КарСаМаН/p/413400555</url>
+  <price>3800.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701610163.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар01</vendorCode>
+  <name>Худи с капюшоном от КарСаМаН размер S</name>
+  <description>Худи с капюшоном яркий принт от КарСаМаН. Ткань - футер. Спереди имеются 
+карманы.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">S</param>
+  <param name="Цвет">Черный</param>
+</offer>
+<offer id="413400571" available="true" group_id="413400571">
+  <url>https://карсаман.рф/#!/Чёрно-белый-худи-с-капюшоном-от-КарСаМаН/p/413400571</url>
+  <price>6200.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701634908.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701650348.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701630469.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701650338.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар02</vendorCode>
+  <name>Чёрно-белый худи с капюшоном от КарСаМаН</name>
+  <description>Чёрно-белый худи с капюшоном от КарСаМаН. Ткань - футер трёхнитка. Яркий 
+логотип от Карсаман. Капюшон. Стильный карман.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+</offer>
+<offer id="413400571C229946067" available="true" group_id="413400571">
+  <url>https://карсаман.рф/#!/Чёрно-белый-худи-с-капюшоном-от-КарСаМаН/p/413400571</url>
+  <price>6200.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701634908.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар02</vendorCode>
+  <name>Чёрно-белый худи с капюшоном от КарСаМаН размер 52</name>
+  <description>Чёрно-белый худи с капюшоном от КарСаМаН. Ткань - футер трёхнитка. Яркий 
+логотип от Карсаман. Капюшон. Стильный карман.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">52</param>
+  <param name="Цвет">Чёрно-белый</param>
+</offer>
+<offer id="413400571C229946068" available="true" group_id="413400571">
+  <url>https://карсаман.рф/#!/Чёрно-белый-худи-с-капюшоном-от-КарСаМаН/p/413400571</url>
+  <price>6200.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701634908.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар02</vendorCode>
+  <name>Чёрно-белый худи с капюшоном от КарСаМаН размер 50</name>
+  <description>Чёрно-белый худи с капюшоном от КарСаМаН. Ткань - футер трёхнитка. Яркий 
+логотип от Карсаман. Капюшон. Стильный карман.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">50</param>
+  <param name="Цвет">Чёрно-белый</param>
+</offer>
+<offer id="413400571C229946069" available="true" group_id="413400571">
+  <url>https://карсаман.рф/#!/Чёрно-белый-худи-с-капюшоном-от-КарСаМаН/p/413400571</url>
+  <price>6200.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701634908.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар02</vendorCode>
+  <name>Чёрно-белый худи с капюшоном от КарСаМаН размер 48</name>
+  <description>Чёрно-белый худи с капюшоном от КарСаМаН. Ткань - футер трёхнитка. Яркий 
+логотип от Карсаман. Капюшон. Стильный карман.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">48</param>
+  <param name="Цвет">Чёрно-белый</param>
+</offer>
+<offer id="413400571C229946070" available="true" group_id="413400571">
+  <url>https://карсаман.рф/#!/Чёрно-белый-худи-с-капюшоном-от-КарСаМаН/p/413400571</url>
+  <price>6200.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701634908.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар02</vendorCode>
+  <name>Чёрно-белый худи с капюшоном от КарСаМаН размер 46</name>
+  <description>Чёрно-белый худи с капюшоном от КарСаМаН. Ткань - футер трёхнитка. Яркий 
+логотип от Карсаман. Капюшон. Стильный карман.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">46</param>
+  <param name="Цвет">Чёрно-белый</param>
+</offer>
+<offer id="413400571C229946071" available="true" group_id="413400571">
+  <url>https://карсаман.рф/#!/Чёрно-белый-худи-с-капюшоном-от-КарСаМаН/p/413400571</url>
+  <price>6200.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701634908.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар02</vendorCode>
+  <name>Чёрно-белый худи с капюшоном от КарСаМаН размер 44</name>
+  <description>Чёрно-белый худи с капюшоном от КарСаМаН. Ткань - футер трёхнитка. Яркий 
+логотип от Карсаман. Капюшон. Стильный карман.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">44</param>
+  <param name="Цвет">Чёрно-белый</param>
+</offer>
+<offer id="413400571C229946072" available="true" group_id="413400571">
+  <url>https://карсаман.рф/#!/Чёрно-белый-худи-с-капюшоном-от-КарСаМаН/p/413400571</url>
+  <price>6200.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701634908.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар02</vendorCode>
+  <name>Чёрно-белый худи с капюшоном от КарСаМаН размер 42</name>
+  <description>Чёрно-белый худи с капюшоном от КарСаМаН. Ткань - футер трёхнитка. Яркий 
+логотип от Карсаман. Капюшон. Стильный карман.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">42</param>
+  <param name="Цвет">Чёрно-белый</param>
+</offer>
+<offer id="413400683" available="true" group_id="413400683">
+  <url>https://карсаман.рф/#!/Чёрный-пиджак-от-КарСаМаН-на-пуговицах/p/413400683</url>
+  <price>8800.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419191</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701813623.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701813851.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701813866.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701813876.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701810219.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701805483.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701820009.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701813931.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701820019.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>00003</vendorCode>
+  <name>Чёрный  пиджак от КарСаМаН на пуговицах.</name>
+  <description>Чёрный пиджак от КарСаМаН на пуговицах. На рукавах молнии, которые можно 
+расстегнуть.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+</offer>
+<offer id="413400683C229938404" available="true" group_id="413400683">
+  <url>https://карсаман.рф/#!/Чёрный-пиджак-от-КарСаМаН-на-пуговицах/p/413400683</url>
+  <price>8800.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419191</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701813700.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>00003</vendorCode>
+  <name>Чёрный  пиджак от КарСаМаН на пуговицах. размер 52</name>
+  <description>Чёрный пиджак от КарСаМаН на пуговицах. На рукавах молнии, которые можно 
+расстегнуть.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">52</param>
+  <param name="Цвет">Чёрный</param>
+</offer>
+<offer id="413400683C229938405" available="true" group_id="413400683">
+  <url>https://карсаман.рф/#!/Чёрный-пиджак-от-КарСаМаН-на-пуговицах/p/413400683</url>
+  <price>8800.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419191</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701813964.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>00003</vendorCode>
+  <name>Чёрный  пиджак от КарСаМаН на пуговицах. размер 50</name>
+  <description>Чёрный пиджак от КарСаМаН на пуговицах. На рукавах молнии, которые можно 
+расстегнуть.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">50</param>
+  <param name="Цвет">Чёрный</param>
+</offer>
+<offer id="413400683C229938406" available="true" group_id="413400683">
+  <url>https://карсаман.рф/#!/Чёрный-пиджак-от-КарСаМаН-на-пуговицах/p/413400683</url>
+  <price>8800.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419191</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701820090.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>00003</vendorCode>
+  <name>Чёрный  пиджак от КарСаМаН на пуговицах. размер 48</name>
+  <description>Чёрный пиджак от КарСаМаН на пуговицах. На рукавах молнии, которые можно 
+расстегнуть.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">48</param>
+  <param name="Цвет">Чёрный</param>
+</offer>
+<offer id="413400683C229938407" available="true" group_id="413400683">
+  <url>https://карсаман.рф/#!/Чёрный-пиджак-от-КарСаМаН-на-пуговицах/p/413400683</url>
+  <price>8800.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419191</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701830002.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>00003</vendorCode>
+  <name>Чёрный  пиджак от КарСаМаН на пуговицах. размер 46</name>
+  <description>Чёрный пиджак от КарСаМаН на пуговицах. На рукавах молнии, которые можно 
+расстегнуть.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">46</param>
+  <param name="Цвет">Чёрный</param>
+</offer>
+<offer id="413400683C229938408" available="true" group_id="413400683">
+  <url>https://карсаман.рф/#!/Чёрный-пиджак-от-КарСаМаН-на-пуговицах/p/413400683</url>
+  <price>8800.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419191</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701830009.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>00003</vendorCode>
+  <name>Чёрный  пиджак от КарСаМаН на пуговицах. размер 44</name>
+  <description>Чёрный пиджак от КарСаМаН на пуговицах. На рукавах молнии, которые можно 
+расстегнуть.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">44</param>
+  <param name="Цвет">Чёрный</param>
+</offer>
+<offer id="413400683C229938409" available="true" group_id="413400683">
+  <url>https://карсаман.рф/#!/Чёрный-пиджак-от-КарСаМаН-на-пуговицах/p/413400683</url>
+  <price>8800.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419191</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701828033.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>00003</vendorCode>
+  <name>Чёрный  пиджак от КарСаМаН на пуговицах. размер 42</name>
+  <description>Чёрный пиджак от КарСаМаН на пуговицах. На рукавах молнии, которые можно 
+расстегнуть.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">42</param>
+  <param name="Цвет">Чёрный</param>
+</offer>
+<offer id="413421508" available="true" group_id="413421508">
+  <url>https://карсаман.рф/#!/Футболка-от-КарСаМаН-с-ярким-принтом/p/413421508</url>
+  <price>1900.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701728015.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701727187.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701728027.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар005</vendorCode>
+  <name>Футболка от КарСаМаН с ярким принтом</name>
+  <description>Футболка от КарСаМаН с ярким принтом. Приятна к телу.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+</offer>
+<offer id="413421508C229934926" available="true" group_id="413421508">
+  <url>https://карсаман.рф/#!/Футболка-от-КарСаМаН-с-ярким-принтом/p/413421508</url>
+  <price>1900.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701729845.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар005</vendorCode>
+  <name>Футболка от КарСаМаН с ярким принтом размер XXXL</name>
+  <description>Футболка от КарСаМаН с ярким принтом. Приятна к телу.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">XXXL</param>
+  <param name="Цвет">Черный</param>
+</offer>
+<offer id="413421508C229934927" available="true" group_id="413421508">
+  <url>https://карсаман.рф/#!/Футболка-от-КарСаМаН-с-ярким-принтом/p/413421508</url>
+  <price>1900.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701727988.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар005</vendorCode>
+  <name>Футболка от КарСаМаН с ярким принтом размер XXL</name>
+  <description>Футболка от КарСаМаН с ярким принтом. Приятна к телу.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">XXL</param>
+  <param name="Цвет">Черный</param>
+</offer>
+<offer id="413421508C229934928" available="true" group_id="413421508">
+  <url>https://карсаман.рф/#!/Футболка-от-КарСаМаН-с-ярким-принтом/p/413421508</url>
+  <price>1900.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701731539.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар005</vendorCode>
+  <name>Футболка от КарСаМаН с ярким принтом размер XL</name>
+  <description>Футболка от КарСаМаН с ярким принтом. Приятна к телу.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">XL</param>
+  <param name="Цвет">Черный</param>
+</offer>
+<offer id="413421508C229934929" available="true" group_id="413421508">
+  <url>https://карсаман.рф/#!/Футболка-от-КарСаМаН-с-ярким-принтом/p/413421508</url>
+  <price>1900.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701729936.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар005</vendorCode>
+  <name>Футболка от КарСаМаН с ярким принтом размер L</name>
+  <description>Футболка от КарСаМаН с ярким принтом. Приятна к телу.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">L</param>
+  <param name="Цвет">Черный</param>
+</offer>
+<offer id="413421508C229934930" available="true" group_id="413421508">
+  <url>https://карсаман.рф/#!/Футболка-от-КарСаМаН-с-ярким-принтом/p/413421508</url>
+  <price>1900.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701731064.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар005</vendorCode>
+  <name>Футболка от КарСаМаН с ярким принтом размер M</name>
+  <description>Футболка от КарСаМаН с ярким принтом. Приятна к телу.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">M</param>
+  <param name="Цвет">Черный</param>
+</offer>
+<offer id="413421508C229934931" available="true" group_id="413421508">
+  <url>https://карсаман.рф/#!/Футболка-от-КарСаМаН-с-ярким-принтом/p/413421508</url>
+  <price>1900.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419433</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701731586.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>Кар005</vendorCode>
+  <name>Футболка от КарСаМаН с ярким принтом размер S</name>
+  <description>Футболка от КарСаМаН с ярким принтом. Приятна к телу.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">S</param>
+  <param name="Цвет">Черный</param>
+</offer>
+<offer id="413424050" available="true" group_id="413424050">
+  <url>https://карсаман.рф/#!/Бело-чёрный-ассиметричный-пиджак-от-КарСаМаН-на-пуговицах/p/413424050</url>
+  <price>9200.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419191</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701802475.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701805308.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701803370.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701795434.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701795444.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701803387.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701803392.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701798491.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701798496.jpg</picture>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701810001.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>00002</vendorCode>
+  <name>Бело-чёрный ассиметричный пиджак от КарСаМаН на пуговицах.</name>
+  <description>Бело-чёрный ассиметричный пиджак от КарСаМаН на пуговицах.Ткань - экокожа. 
+Ассиметрия. Стильный карман.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+</offer>
+<offer id="413424050C229946209" available="true" group_id="413424050">
+  <url>https://карсаман.рф/#!/Бело-чёрный-ассиметричный-пиджак-от-КарСаМаН-на-пуговицах/p/413424050</url>
+  <price>9200.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419191</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701805401.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>00002</vendorCode>
+  <name>Бело-чёрный ассиметричный пиджак от КарСаМаН на пуговицах. размер 52</name>
+  <description>Бело-чёрный ассиметричный пиджак от КарСаМаН на пуговицах.Ткань - экокожа. 
+Ассиметрия. Стильный карман.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">52</param>
+  <param name="Цвет">Чёрно-белый</param>
+</offer>
+<offer id="413424050C229946210" available="true" group_id="413424050">
+  <url>https://карсаман.рф/#!/Бело-чёрный-ассиметричный-пиджак-от-КарСаМаН-на-пуговицах/p/413424050</url>
+  <price>9200.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419191</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701810136.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>00002</vendorCode>
+  <name>Бело-чёрный ассиметричный пиджак от КарСаМаН на пуговицах. размер 50</name>
+  <description>Бело-чёрный ассиметричный пиджак от КарСаМаН на пуговицах.Ткань - экокожа. 
+Ассиметрия. Стильный карман.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">50</param>
+  <param name="Цвет">Чёрно-белый</param>
+</offer>
+<offer id="413424050C229946211" available="true" group_id="413424050">
+  <url>https://карсаман.рф/#!/Бело-чёрный-ассиметричный-пиджак-от-КарСаМаН-на-пуговицах/p/413424050</url>
+  <price>9200.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419191</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701803492.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>00002</vendorCode>
+  <name>Бело-чёрный ассиметричный пиджак от КарСаМаН на пуговицах. размер 48</name>
+  <description>Бело-чёрный ассиметричный пиджак от КарСаМаН на пуговицах.Ткань - экокожа. 
+Ассиметрия. Стильный карман.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">48</param>
+  <param name="Цвет">Чёрно-белый</param>
+</offer>
+<offer id="413424050C229946212" available="true" group_id="413424050">
+  <url>https://карсаман.рф/#!/Бело-чёрный-ассиметричный-пиджак-от-КарСаМаН-на-пуговицах/p/413424050</url>
+  <price>9200.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419191</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701813557.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>00002</vendorCode>
+  <name>Бело-чёрный ассиметричный пиджак от КарСаМаН на пуговицах. размер 46</name>
+  <description>Бело-чёрный ассиметричный пиджак от КарСаМаН на пуговицах.Ткань - экокожа. 
+Ассиметрия. Стильный карман.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">46</param>
+  <param name="Цвет">Чёрно-белый</param>
+</offer>
+<offer id="413424050C229946213" available="true" group_id="413424050">
+  <url>https://карсаман.рф/#!/Бело-чёрный-ассиметричный-пиджак-от-КарСаМаН-на-пуговицах/p/413424050</url>
+  <price>9200.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419191</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701813801.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>00002</vendorCode>
+  <name>Бело-чёрный ассиметричный пиджак от КарСаМаН на пуговицах. размер 44</name>
+  <description>Бело-чёрный ассиметричный пиджак от КарСаМаН на пуговицах.Ткань - экокожа. 
+Ассиметрия. Стильный карман.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">44</param>
+  <param name="Цвет">Чёрно-белый</param>
+</offer>
+<offer id="413424050C229946214" available="true" group_id="413424050">
+  <url>https://карсаман.рф/#!/Бело-чёрный-ассиметричный-пиджак-от-КарСаМаН-на-пуговицах/p/413424050</url>
+  <price>9200.00</price>
+  <currencyId>RUB</currencyId>
+  <categoryId>122419191</categoryId>
+  <picture>https://d2j6dbq0eux0bg.cloudfront.net/images/40599014/2701810158.jpg</picture>
+  <store>false</store>
+  <pickup>false</pickup>
+  <vendor>КарСаМаН</vendor>
+  <vendorCode>00002</vendorCode>
+  <name>Бело-чёрный ассиметричный пиджак от КарСаМаН на пуговицах. размер 42</name>
+  <description>Бело-чёрный ассиметричный пиджак от КарСаМаН на пуговицах.Ткань - экокожа. 
+Ассиметрия. Стильный карман.</description>
+  <manufacturer_warranty>false</manufacturer_warranty>
+  <adult>false</adult>
+  <weight>0.200</weight>
+  <param name="Размер" unit="RU">42</param>
+  <param name="Цвет">Чёрно-белый</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
